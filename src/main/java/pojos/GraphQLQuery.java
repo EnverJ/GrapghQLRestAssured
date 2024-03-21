@@ -3,7 +3,9 @@ package pojos;
 * This is the ain pojo class
 * @author
 * */
-public class GraphQL {
+public class GraphQLQuery {
+    private String query;
+    private Object variables;
     public String getQuery() {
         return query;
     }
@@ -20,7 +22,6 @@ public class GraphQL {
         this.variables = variables;
     }
 
-    private String query;
-    private Object variables;
+
 
 }
