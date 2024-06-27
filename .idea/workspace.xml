@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b45cd21-52e7-4dd6-ac5a-b81c9454a26d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojos/Customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojos/Customer/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojos/Customer/DataWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojos/Customer/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojos/Customer/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojos/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pojos/Products.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builder/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builder/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/TestUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builder/TestUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builder/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/TestCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/TestCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pojos/GraphQLQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojos/GraphQLQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pojos/QueryVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojos/QueryVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/grapghqlTest/GraphQLQueryQueryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/grapghqlTest/GraphQLQueryQueryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
